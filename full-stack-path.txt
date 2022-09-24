@@ -9,16 +9,30 @@
 - Core of Full stack Developer
   Know general business problem and solution
 - Benefit of full stack deveopers
-- Full Stack
+- Full Stack 
   + Business Problem and Solution
-  + Mobile app
+  + Freelance vs Product (App or service)  
   + Web app
-    + Frontend and Backend
-       (React / Angular / VueJS)
+    + Frontend
+       (React (MVVM) / Angular (MVC) / VueJS)
+       - Angular (CSR) vs Angular Universal (SSR)
+       - ReactJS (CSR) vs Next.JS (SSR)
+       - VueJS (CSR) vs Nuxt (SSR) 
+         (V2->V3)
+    + Backend     
+       - NodeJS(TS) / Golang / .NET Core / Python (FastAPI) / Java(Kotlin) Springboot
+       - Network Redis
     + DB
-       (Mysql / Oracle / MongoDB / PostgressDB) 
-  + Protocol
-    - JSON
-    - Http
-    - MQTT
+       - (MongoDB (No-SQL) / Postgres DB (SQL) / Mysql / Oracle / )
+       - SQL, ORM, No-SQL
+    + Communication Protocol and Format
+      - JSON 
+      - Http (GET / POST / DELETE / PUT)
+      - CRUD
+      - MQTT (Event-Listener Base-Communication)
+  + Mobile app  
+     - Hybrid vs Native
+     - Native Android and iOS (Kotlin and SwiftUI)
+     - Hybrid (Flutter vs React-Native)
+     
       
