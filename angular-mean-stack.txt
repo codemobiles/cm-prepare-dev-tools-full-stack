@@ -1,3 +1,6 @@
+# Setup Tutorial
+https://youtu.be/K12zpDVgYfg
+
 # windows
 
 # install nodejs

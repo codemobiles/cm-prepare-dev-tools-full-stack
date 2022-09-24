@@ -1,0 +1,8 @@
+# Setup Tutorial
+https://youtu.be/wXtlAu2xiZM
+
+# Download Android Studio
+# Download Android Studio plugin Flutter
+# Downloasd Flutter SDK
+# Setup and new project
+# Setup Emulator and run

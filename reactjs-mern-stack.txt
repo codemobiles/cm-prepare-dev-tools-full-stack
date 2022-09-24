@@ -1,5 +1,8 @@
-# windows
+# Setup Tutorial
+https://youtu.be/Fttn06iTj6M
 
+
+# windows
 # install nodejs
 node --version
 download nodejs  (lts) from: https://nodejs.org/en/

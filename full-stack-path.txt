@@ -1,0 +1,24 @@
+- What is your target?
+- Money / Product / Profile / Family
+- Set your target 
+  - App 
+  - Service
+  - Profile
+- Development Environment
+  + Windows / Linux / Mac      
+- Core of Full stack Developer
+  Know general business problem and solution
+- Benefit of full stack deveopers
+- Full Stack
+  + Business Problem and Solution
+  + Mobile app
+  + Web app
+    + Frontend and Backend
+       (React / Angular / VueJS)
+    + DB
+       (Mysql / Oracle / MongoDB / PostgressDB) 
+  + Protocol
+    - JSON
+    - Http
+    - MQTT
+      
