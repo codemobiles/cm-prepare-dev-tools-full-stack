@@ -13,3 +13,6 @@ npx create-react-app react-demo --template typescript
 # run for testing
 cd react-demo
 yarn start
+
+#mongodb
+https://www.mongodb.com/try/download/community

@@ -19,3 +19,5 @@ ng new ngDemo
 cd ngDemo
 ng serve
 
+#mongodb
+https://www.mongodb.com/try/download/community
