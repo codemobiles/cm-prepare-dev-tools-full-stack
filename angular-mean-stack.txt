@@ -1,0 +1,21 @@
+# windows
+
+# install nodejs
+node --version
+download nodejs  (lts) from: https://nodejs.org/en/
+
+# uninstall old angular version
+npm uninstall -g angular-cli
+npm cache clean
+
+# install angular cli
+npm install -g @angular/cli
+ng version
+
+# new angular project
+ng new ngDemo
+
+# run for testing
+cd ngDemo
+ng serve
+
