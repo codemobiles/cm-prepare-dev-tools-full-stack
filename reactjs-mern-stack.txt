@@ -1,0 +1,15 @@
+# windows
+
+# install nodejs
+node --version
+download nodejs  (lts) from: https://nodejs.org/en/
+
+# install yarn
+npm i -g yarn
+
+# new reactjs project with ts
+npx create-react-app react-demo --template typescript
+
+# run for testing
+cd react-demo
+yarn start
