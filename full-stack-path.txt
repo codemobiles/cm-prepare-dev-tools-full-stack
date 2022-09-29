@@ -34,5 +34,7 @@
      - Hybrid vs Native
      - Native Android and iOS (Kotlin and SwiftUI)
      - Hybrid (Flutter vs React-Native)
-     
+  + Deployment (GooglePlay, Apple Appstore, Nginx, Apache)
+    + Take 2+ Years
+    + UI Design (MaterialDesign), UX, Security, DevOp, Optimization   
       
