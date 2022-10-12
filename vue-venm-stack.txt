@@ -15,4 +15,7 @@ npm create vite@latest
 
 
 #mongodb
-https://www.mongodb.com/try/download/community
+windows: https://www.mongodb.com/try/download/community
+mac: 
+- homebrew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+- https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
