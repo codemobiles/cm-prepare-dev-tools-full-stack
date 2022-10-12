@@ -1,3 +1,7 @@
+# Youtube
+https://www.youtube.com/watch?v=7EdljsAN6hs
+
+
 # Installation
 - nodejs lts
 - angular cli
