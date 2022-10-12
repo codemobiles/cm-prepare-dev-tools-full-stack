@@ -5,20 +5,14 @@
 node --version
 download nodejs  (lts) from: https://nodejs.org/en/
 
-# uninstall old angular version
-npm uninstall -g angular-cli
-npm cache clean
 
-# install angular cli
-npm install -g @angular/cli
-ng version
+# install vue cli (vite - https://vitejs.dev/guide/) 
+npm create vite@latest
+ - create vue project with select options
+ - cd <new project folder></new>
+ - npm i
+ - npm run dev
 
-# new angular project
-ng new ngDemo
-
-# run for testing
-cd ngDemo
-ng serve
 
 #mongodb
 https://www.mongodb.com/try/download/community
