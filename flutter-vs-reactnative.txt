@@ -1,0 +1,54 @@
+# Flutter (Google)
+- dart (not difficult)
+- framework
+- have an official library store - pub.dev
+- setup: easy
+- cross-platform ui consistency (Material)
+- unsupport intel chipset mobile
+- performance (good)
+- state management (Bloc)
+- Tool (VSCode, Android Studio)
+- Unable-Reusability (web skill)
+
+
+# React-Native (Facebook and Community)
+- javascript/typescript(optional) and JSX (not difficult)
+- not framework: react lib
+- no official library store - use google
+- setup: difficult
+- cross-platform ui inconsistency 
+  + https://reactnativeelements.com/
+  + https://callstack.github.io/react-native-paper/
+- support intel chipset mobile  
+- performance (good)
+- state management (Redux)
+- Tool (VSCode)
+- Reusability (web skill)
+
+
+Pros of Flutter and ReactNative
+-------------------------
+#https://fireart.studio/blog/flutter-vs-react-native-what-app-developers-should-know-about-cross-platform-mobile-development/
+
+Pros of Flutter
+We’ll start with the pros that make Flutter the best choice for the developers. Here’s the list of advantages of Flutter over React Native:
+
+It looks great!
+It’s rich in widgets;
+The community is rapidly growing
+Well-structured documentation
+Permanent improvements for web development
+It requires less testing
+The apps are fast
+It helps to create the same UI for older devices  
+
+
+# React-Native
+It has a Hot Reload feature, which helps with fast coding
+One codebase that helps to create apps for two and more platforms
+It uses JavaScript
+The code can be reused
+It has an active and supportive community
+If you hire Reactjs developers, they easily learn React Native
+It saves up 50% of the time on testing
+It has fantastic performance
