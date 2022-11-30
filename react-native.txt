@@ -1,3 +1,7 @@
 # Setup Tutorial
 https://www.youtube.com/watch?v=KP338EGXLtw
 
+
+# new project
+npx react-native init cmDemoTS --template react-native-template-typescript
+npx react-native run-android
