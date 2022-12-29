@@ -1,6 +1,9 @@
 # Youtube
 https://www.youtube.com/watch?v=7EdljsAN6hs
 
+# Setup Docker
+https://github.com/codemobiles/cm-prepare-dev-tools-full-stack/blob/main/docker-install.md
+
 
 # Installation
 - nodejs lts
