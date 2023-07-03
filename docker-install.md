@@ -1,3 +1,6 @@
+# Check List 
+https://www.youtube.com/watch?v=kxqhseaE258
+
 # setup docker+wsl2 on windows 10+
 https://www.youtube.com/watch?v=1G4xuqoLepI
 
