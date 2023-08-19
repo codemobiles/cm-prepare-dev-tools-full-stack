@@ -7,3 +7,7 @@ dotnet tool update --global dotnet-ef
 dotnet tool uninstall --global dotnet-ef
 
 dotnet ef dbcontext scaffold "Server=localhost,1433;user id=sa; password=Tel1234!; Database=istock;" Microsoft.EntityFrameworkCore.SqlServer -o Entities -c DatabaseContext --context-dir Data
+
+# check packages
+dotnet list package
+dotnet list package --outdated
