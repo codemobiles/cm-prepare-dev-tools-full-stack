@@ -1,0 +1,27 @@
+# Setup Tutorial
+https://youtu.be/DHYI9HEWCo0
+
+
+# windows
+# install nodejs
+node --version
+download nodejs (lts) from: https://nodejs.org/en/
+
+# install yarn
+npm i -g yarn
+
+# new reactjs project with ts
+npx create-next-app@latest <your-project-name>
+yarn dev
+
+✔ What is your project named? … my-nextjs-vidoeonline
+✔ Would you like to use TypeScript? … Yes
+✔ Would you like to use ESLint? …  Yes
+✔ Would you like to use Tailwind CSS? … Yes
+✔ Would you like to use `src/` directory? … Yes
+✔ Would you like to use App Router? (recommended) … Yes
+✔ Would you like to customize the default import alias (@/*)? … Yes
+✔ What import alias would you like configured? … @/*
+
+code <your-project-name>
+yarn dev
