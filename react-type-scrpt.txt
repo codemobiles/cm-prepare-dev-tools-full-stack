@@ -1,0 +1,6 @@
+ดูขั้นตอนตามนี้ได้เลยครับ
+https://youtu.be/CvqBDQ-HoSg
+
+ลิงค์อ้างอิง
+- https://vitejs.dev/guide/
+- https://nodejs.org/en
